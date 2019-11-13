@@ -8,3 +8,4 @@ text_7_master
 text_8_master
 text_9_master
 text_10_master
+text_12_master
