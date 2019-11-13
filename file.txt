@@ -1,2 +1,3 @@
 text_1
 text_2_master
+text_3_master
